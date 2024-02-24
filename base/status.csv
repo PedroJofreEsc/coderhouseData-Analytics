@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 status_id,status_name
 1,Ended
 2,Returning Series
@@ -5,3 +6,12 @@ status_id,status_name
 4,In Production
 5,Planned
 6,Pilot
+=======
+status_id,status_name
+1,Ended
+2,Returning Series
+3,Canceled
+4,In Production
+5,Planned
+6,Pilot
+>>>>>>> a2c54963329c2f97277d43e3e93d44a6f5fa1087
